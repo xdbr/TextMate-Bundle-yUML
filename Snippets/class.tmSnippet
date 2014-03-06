@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[${1:Class}${2:|${3:+member1()}${;4:-member2()}}${5:|${6:+member3()}${7:;+Logout()}}]$0
+</string>
+	<key>name</key>
+	<string>class</string>
+	<key>tabTrigger</key>
+	<string>class</string>
+	<key>uuid</key>
+	<string>0C019CC7-6D4F-427E-85EC-E67101063F5C</string>
+</dict>
+</plist>
