@@ -24,7 +24,6 @@ currently available Snippets are (all snippets are to be followed by TAB):
 * Interface Inheritance: `connection`
 * Simple Association: `connection`
 * interface: `connection`
-* untitled: `connection`
 
 
 Commands
