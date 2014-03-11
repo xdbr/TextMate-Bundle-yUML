@@ -34,7 +34,18 @@ Commands
 Installation
 ------------
 
-    git clone https://github.com/xdbr/TextMate-Bundle-yUML.git ~/tmp/yuml.tmbundle && open $_
+### Textmate
+
+```
+git clone https://github.com/xdbr/TextMate-Bundle-yUML.git ~/Library/Application\ Support/TextMate/Bundles/yuml.tmbundle || cd $_ && git pull; cd -
+```
+
+### Sublime Text 2
+```
+git clone https://github.com/xdbr/TextMate-Bundle-yUML.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/yuml.tmbundle || cd $_ && git pull; cd -
+```
+
+The latter is reported to work for Sublime (which I haven't tried) and the first solution is the one I use for TextMate
 
 Contributing
 ------------
